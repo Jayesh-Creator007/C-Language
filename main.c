@@ -9,10 +9,6 @@ int main()
 
   // Variable examples
 
-
-
-
-  
   // int - can be use to store numbers without decimal
   int marks = 85;
   int total = 100;
